@@ -98,6 +98,8 @@ Reme（雷米）是作者的早期 YSM 作品，按作者自述「初学五天�
 
 ## 3. 安装与使用
 
+> **最快方式**：直接下载 [Release v1.0.0](https://github.com/linxiting890/YSM-Reme/releases/tag/v1.0.0) 的附件 `YSM-Reme-v1.0.0.zip`，解压后把其中的 `Reme/` 文件夹放进下面的 `custom/` 目录即可（附件与源码内容一致，只是省去自己打包）。
+
 1. 在客户端（以及需要同步的服务端）安装 **Yes Steve Model** 模组，版本建议 2.5.0+，并确认与你的游戏版本、加载器（Forge / NeoForge / Fabric）匹配。
 2. 将本仓库**整个文件夹**放到：
 
